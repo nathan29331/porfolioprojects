@@ -2,6 +2,7 @@ Select*
 From portfolioproject1..coviddeaths
 order by 3,4
 
+
 --Select*
 --From portfolioproject1..covidvaccinations
 --order by 3,4
