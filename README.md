@@ -6,6 +6,4 @@ project 1: Data exploration on COVID-19 data                        data from ou
 
 project 2: Tableau dashboard based on covid data exploration: https://public.tableau.com/app/profile/nathan.iwema/viz/tableaudashboardproject2/Dashboard1
 
-project 3: Nashville housing data for data cleaning                 data from kaggle.com
 
-project 4: Using python looking at correlation of movie data        data from kaggle.com
